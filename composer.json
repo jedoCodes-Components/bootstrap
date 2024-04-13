@@ -14,12 +14,15 @@
     "require": {
         "contao-components/installer": "^1.0.9"
     },
+    "replace": {
+        "jedocodes/bootstrap":"*"
+    },
     "extra": {
         "contao-component-dir": "assets"
     },
     "support" : {
-      "docs": "https://docs.jedo.codes/contao-components/bootstrap",
-      "issues" : "https://github.com/jedocodes-components/bootstrap/issues",
-      "source" : "https://github.com/jedocodes-components/bootstrap"
+        "docs": "https://docs.jedo.codes/contao-components/bootstrap",
+        "issues" : "https://github.com/jedocodes-components/bootstrap/issues",
+        "source" : "https://github.com/jedocodes-components/bootstrap"
     }
 }
