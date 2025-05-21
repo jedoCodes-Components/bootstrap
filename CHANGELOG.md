@@ -9,6 +9,8 @@ Types of changes
     Fixed for any bug fixes.
     Security in case of vulnerabilities.
 )
+## 5.3.6
+- Update to Bootstrap 5.3.6
 
 ## 5.3.3
 - [Changed] move repository to our new vendor
