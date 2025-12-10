@@ -9,6 +9,9 @@ Types of changes
     Fixed for any bug fixes.
     Security in case of vulnerabilities.
 )
+## 5.3.8
+- Update to Bootstrap 5.3.8
+
 ## 5.3.7
 - Update to Bootstrap 5.3.7
 
